@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.log
+.local-tools/
+
+# Local research and source media are not part of the published website.
+reference-study/
+wayline-assets/
+*.zip
+.env
+.env.*
